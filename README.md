@@ -9,8 +9,8 @@ The Walmart Sales Forecasting project is an excellent example of how machine lea
 We hope that this project will inspire and encourage data enthusiasts to explore the world of machine learning and its application in real-life scenarios.
 
 <p>
-    <strong>Problem Statement:</strong> Walmart, one of the largest retail chains, aims to revolutionize inventory management and revenue optimization through accurate sales forecasting. To achieve this, they are leveraging historical sales data to develop a powerful data science solution. The objective is to create a robust sales forecasting model that accurately predicts future sales, enabling Walmart to make informed business decisions and improve overall operational efficiency.
+    <strong>🎯 Problem Statement:</strong> Walmart, one of the 🌍 largest retail chains, aims to revolutionize inventory management and revenue optimization through accurate sales forecasting. To achieve this, they are leveraging historical sales data to develop a powerful data science solution. The objective is to create a robust sales forecasting model that accurately predicts future sales, enabling Walmart to make informed business decisions and improve overall operational efficiency.
 </p>
 <p>
-    <strong>Data Collection:</strong> The foundation for this data science project lies in the provided datasets: "train.csv" and "test.csv." These datasets contain the historical sales data necessary for training and testing the sales forecasting model. The "train.csv" dataset includes information such as store and department numbers, dates of sales, weekly sales figures, and a flag indicating whether the week contained a holiday. On the other hand, the "test.csv" dataset will be used to evaluate the model's performance and make predictions for future sales.
-</p>
+    <strong>📊 Data Collection:</strong> The foundation for this data science project lies in the provided datasets: <code>"train.csv"</code> and <code>"test.csv"</code>. These datasets contain the historical sales data necessary for training and testing the sales forecasting model. The <code>"train.csv"</code> dataset includes information such as store and department numbers, dates of sales, weekly sales figures, and a flag indicating whether the week contained a holiday
+
