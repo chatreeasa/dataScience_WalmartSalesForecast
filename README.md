@@ -2,7 +2,7 @@
 <h1 align="center">Walmart Sales Forecast</h1>
 
 <p align="center">
-    <img src="walmart_logo.png" alt="Walmart Logo" width="200" height="200">
+    <img src="[walmart_logo.png](https://images.unsplash.com/photo-1506617420156-8e4536971650?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1723&q=80)" alt="Walmart Logo" width="200" height="200">
 </p>
 
 <p align="center">A data science project to forecast sales at Walmart stores</p>
